@@ -24,7 +24,7 @@
 * JQuery
 
 ## Contribuciones
-Agradecemos las contribuciones de la comunidad.
+- **Agradecemos las contribuciones [https://cafecito.app/mauriciomss](https://cafecito.app/mauriciomss)!**
 
 ### GNU GENERAL PUBLIC LICENSE
 
